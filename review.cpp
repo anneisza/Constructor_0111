@@ -7,7 +7,6 @@ class persegiPanjang{
     public:
         void inputData(bangunDatar &BD);
         void outputData(bangunDatar &BD);
-    
 };
 
 class bangunDatar{
@@ -42,8 +41,6 @@ class bangunDatar{
         cout << " Keliling:"<< BD.hitungKeliling()<<endl;
        
     };
-
-
 
 int main (){
     persegiPanjang pP;
