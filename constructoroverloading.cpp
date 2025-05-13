@@ -24,3 +24,8 @@ mahasiswa ::mahasiswa(int iNim){
 mahasiswa ::mahasiswa(string iNama){
     nama = iNama; //definisi hanya NAMA
 }
+
+mahasiswa ::mahasiswa(int iNim, string iNama){
+    nim = iNim; //definisi hanya NIM dan NAMA
+    nama = iNama; 
+}
