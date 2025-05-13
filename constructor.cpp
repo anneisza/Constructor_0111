@@ -10,3 +10,7 @@ mahasiswa :: mahasiswa(){
     cout<<"Constructor Terpanggil"<<endl; //definisi constructor
 };
 
+int main(){
+    
+}
+
