@@ -12,5 +12,6 @@ mahasiswa :: mahasiswa(){
 
 int main(){
    mahasiswa mhs;//pembuatan object 
+   return 0;
 }
 
