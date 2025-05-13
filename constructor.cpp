@@ -6,3 +6,7 @@ public :
 mahasiswa(); //constructor mahasiswa
 };
 
+mahasiswa :: mahasiswa(){
+    cout<<"Constructor Terpanggil"<<endl; //definisi constructor
+};
+
