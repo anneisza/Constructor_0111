@@ -11,8 +11,9 @@ class Barang {
 };
 
 Barang :: Barang (string namaBarang, int kodeBarang){
-    cout<<"Nama Barang ="<< namaBarang<<endl;
-    cout<<"Kode Barang ="<< kodeBarang<<endl;
+    cout<<"==Informasi Barang=="<<endl;
+    cout<<"Nama Barang = "<< namaBarang<<endl;
+    cout<<"Kode Barang = "<< kodeBarang<<endl;
 
 }
 
